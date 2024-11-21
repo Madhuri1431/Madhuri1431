@@ -32,7 +32,7 @@ Hello! I'm Madhuri Katakamsetty, currently pursuing a Master's degree in Compute
 📫 Contact Me
 Email: [madhurikatakamsetty8@gmail.com]
 LinkedIn: [www.linkedin.com/in/madhuri-katakamsetty-187749339]
-GitHub: []
+GitHub: [https://github.com/Madhuri1431]
 
 
 
